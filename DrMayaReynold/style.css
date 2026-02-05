@@ -659,7 +659,7 @@ flex-direction: column; */
   background-color: var(--secondary);
   padding: 30px;
   border-left: 4px solid var(--accent);
-  margin: 20px 0;
+  margin-top: 20px;
 }
 
 .office-cta-text {
